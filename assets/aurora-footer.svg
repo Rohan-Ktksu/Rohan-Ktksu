@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Soothing aurora footer with a quiet reminder to keep building">
+ <defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#141E37"/><stop offset=".55" stop-color="#242747"/><stop offset="1" stop-color="#1B3545"/></linearGradient></defs>
+ <rect width="1200" height="110" rx="18" fill="url(#bg)"/>
+ <path d="M0 88Q270 17 570 85T1200 72" fill="none" stroke="#AAB6E8" stroke-opacity=".2" stroke-width="1.5"/>
+ <path d="M0 101Q300 30 670 95T1200 89" fill="none" stroke="#90DACF" stroke-opacity=".17" stroke-width="2"/>
+ <g fill="#C6D9ED" opacity=".7"><circle cx="93" cy="35" r="1"/><circle cx="329" cy="77" r="1"/><circle cx="1055" cy="27" r="1.2"/></g>
+ <text x="600" y="51" text-anchor="middle" font-size="19" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#DFE5FA">stay curious. keep creating. ✦</text>
+ <text x="600" y="77" text-anchor="middle" font-size="11" letter-spacing="3" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#A6C5D4">MADE WITH CARE  ·  ROHAN</text>
+</svg>

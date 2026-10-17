@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
+  <title id="title">Rohan — creative developer profile</title>
+  <desc id="desc">A midnight-blue aurora sky, delicate stars and a luminous aircraft flight path. Rohan. Build with curiosity.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" x2="1" y1="0.15" y2="0.95">
+      <stop offset="0" stop-color="#0A1225"/>
+      <stop offset="0.55" stop-color="#172240"/>
+      <stop offset="1" stop-color="#26234A"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#86E3CF" stop-opacity="0.04"/>
+      <stop offset="0.4" stop-color="#83BCE0" stop-opacity="0.2"/>
+      <stop offset="0.8" stop-color="#C7A7EB" stop-opacity="0.19"/>
+      <stop offset="1" stop-color="#D9B7DE" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1">
+      <stop offset="0" stop-color="#85DDD0" stop-opacity=".1"/>
+      <stop offset=".45" stop-color="#B8B8FA" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#B8B8FA" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#C9B7EF" stop-opacity=".25"/><stop offset="1" stop-color="#C9B7EF" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+    <filter id="tinyGlow"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#night)"/>
+  <ellipse cx="925" cy="112" rx="350" ry="180" fill="url(#glow)" filter="url(#soft)"/>
+  <path d="M460 -40 C570 120 730 70 840 145 S1060 100 1260 30 L1250 -30Z" fill="url(#aurora)" opacity=".85">
+    <animate attributeName="opacity" values=".6;.95;.6" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M510 0 Q760 210 1200 60" fill="none" stroke="#9DCDD8" stroke-width="52" opacity=".06" filter="url(#soft)"/>
+  <path d="M420 342 C700 160 900 295 1200 130" fill="none" stroke="#C4AFF0" stroke-width="75" opacity=".075" filter="url(#soft)"/>
+  <g fill="#D4DEFF">
+    <circle cx="72" cy="55" r="1.2" opacity=".5"/><circle cx="222" cy="85" r="1" opacity=".4"/>
+    <circle cx="365" cy="45" r="1.1" opacity=".65"/><circle cx="500" cy="93" r="1.4" opacity=".65"/>
+    <circle cx="635" cy="47" r="1" opacity=".5"/><circle cx="778" cy="86" r="1.2" opacity=".55"/>
+    <circle cx="998" cy="45" r="1" opacity=".7"/><circle cx="1111" cy="90" r="1.1" opacity=".8"/>
+    <circle cx="1056" cy="206" r="1.4" opacity=".45"/><circle cx="886" cy="262" r="1.1" opacity=".5"/>
+    <circle cx="740" cy="230" r="1.3" opacity=".5"/><circle cx="1137" cy="289" r="1" opacity=".45"/>
+    <circle cx="627" cy="300" r=".9" opacity=".45"/><circle cx="84" cy="265" r="1" opacity=".6"/>
+  </g>
+  <g stroke="#B1C9E8" stroke-width="1" opacity=".55">
+    <path d="M1028 115v16M1020 123h16"/><path d="M933 53v12M927 59h12" opacity=".5"/>
+  </g>
+  <g opacity=".9">
+    <circle cx="915" cy="171" r="113" stroke="#95B9D8" fill="none" stroke-width="1" stroke-dasharray="3 9" opacity=".26"/>
+    <circle cx="915" cy="171" r="77" stroke="#C1B3E8" fill="none" stroke-width="1" opacity=".14"/>
+    <path d="M715 267 C813 258 815 113 926 138 C988 153 1010 90 1104 91" stroke="url(#stroke)" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="5 8"/>
+    <circle cx="715" cy="267" r="3" fill="#96DACF"/>
+    <circle cx="1104" cy="91" r="3" fill="#D0B5EB"/>
+    <g transform="translate(934 136) rotate(-26)">
+      <path d="M0 -32 L7 -5 L35 10 L35 17 L7 11 L7 28 L16 36 L16 40 L0 35 L-16 40 L-16 36 L-7 28 L-7 11 L-35 17 L-35 10 L-7 -5Z" fill="#C6E8EF" opacity=".93"/>
+      <path d="M0 -32V34" stroke="#9BC2DE" stroke-width="1"/>
+    </g>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="92" font-size="14" letter-spacing="5" fill="#96DCD3">HELLO, WORLD  ·  I'M</text>
+    <text x="67" y="176" font-size="78" font-weight="700" letter-spacing="-3" fill="#F4F5FF">rohan<tspan fill="#ADCCE8">.</tspan></text>
+    <text x="73" y="217" font-size="22" font-weight="400" fill="#C8D5F0">building with curiosity, one idea at a time.</text>
+    <rect x="72" y="247" width="345" height="1" fill="#94AFC9" opacity=".3"/>
+    <text x="73" y="275" font-size="12" letter-spacing="2.4" fill="#A9B9D4">JAVA  /  BACKEND  /  AI  /  AVIATION</text>
+  </g>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="11" fill="#A9C8D9" opacity=".63">
+    <text x="1018" y="305">51.0° / SKY</text>
+  </g>
+</svg>
