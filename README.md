@@ -65,21 +65,13 @@ I'm **Rohan**, a computer science student who enjoys figuring out how things wor
 
 > A hands-on project that explores the world above us through flight data — from live aircraft positions to movement patterns around airports.
 
-```text
-          live ADS-B data
-                 │
-                 ▼
-       collect & clean data
-                 │
-                 ▼
-    analyze aircraft movement
-           /           \
-          ▼             ▼
-  runway context    distance & bearing
-          \             /
-           ▼           ▼
-        visualize & learn
-```
+<div align="center">
+
+<img src="./assets/adsb-pipeline.svg" width="85%" alt="Butterflyts workflow: live ADS-B data → collect and clean data → runway context and movement metrics → classification and visualization" />
+
+<sub>From live aircraft signals to runway-aware insights.</sub>
+
+</div>
 
 **What I'm building and exploring:**
 
@@ -92,19 +84,21 @@ I'm **Rohan**, a computer science student who enjoys figuring out how things wor
 
 <br />
 
-### 🌌 More projects I'm exploring
+### 🌌 More projects in the works
 
-Alongside Butterflyts, I've been exploring different ways to make software useful — from environmental data to real-world applications.
+A few other things I'm building and learning from, beyond Butterflyts:
 
-- **[Bengaluru Heat Atlas](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas)** — satellite-based urban heat analysis and an interactive cooling-priority atlas. `Geospatial data` · `HTML`
-- **[Michigan Powercut Model](https://github.com/Rohan-Ktksu/michigan-powercut-model)** — an exploratory, data-driven project focused on electricity interruptions. `Python` · `Data analysis`
-- **[Shabdanveshi](https://github.com/Rohan-Ktksu/shabdanveshi)** — a TypeScript project in active development. `TypeScript`
-- **[Careva Website](https://github.com/Rohan-Ktksu/careva_website)** — web application development for Careva. `Web development`
-- **[Personal Portfolio](https://github.com/Rohan-Ktksu/rohan-sai-portfolio)** — a small corner of the web to share my work and progress. `HTML` · `CSS` · `GitHub Pages`
+| Project | What I'm exploring | Tech |
+|:--|:--|:--|
+| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) | Satellite-driven urban heat analysis and cooling-priority mapping | Geospatial · HTML |
+| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Data-driven exploration of electricity interruptions | Python · Data analysis |
+| [**Shabdanveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) | A new project under development | TypeScript |
+| [**Careva Website**](https://github.com/Rohan-Ktksu/careva_website) | Building and iterating on a web application | Web development |
+| [**Personal Portfolio**](https://github.com/Rohan-Ktksu/rohan-sai-portfolio) | A home for projects and a record of what I'm learning | HTML · CSS |
 
 <div align="center">
 
-<a href="https://github.com/Rohan-Ktksu?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20projects-GitHub-5F7798?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Browse all of Rohan's public repositories" /></a>
+<a href="https://github.com/Rohan-Ktksu?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-Explore-253A54?style=flat-square&amp;logo=github&amp;logoColor=D5E6F0" alt="Explore all repositories" /></a>
 
 </div>
 
@@ -112,7 +106,14 @@ Alongside Butterflyts, I've been exploring different ways to make software usefu
 
 ### 🧩 DSA — getting a little better every day
 
-I practice problem-solving in **Java**, focusing on understanding *why* an algorithm works, not just getting the accepted answer.
+I practice problem-solving in **Java**, focusing on understanding *why* an algorithm works, not just getting the accepted answer. I work through LeetCode patterns and HackerRank challenges, especially arrays, strings, and linked lists.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/rohansaigorumutchu/"><img src="https://img.shields.io/badge/LeetCode-My%20progress-5F7798?style=for-the-badge&amp;logo=leetcode&amp;logoColor=F0F1FA" alt="View my LeetCode profile" /></a>
+<a href="https://www.hackerrank.com/profile/h24020301819"><img src="https://img.shields.io/badge/HackerRank-My%20progress-688E99?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=F0F1FA" alt="View my HackerRank profile" /></a>
+
+</div>
 
 | Foundations | Problem-solving patterns | Next horizons |
 |:--|:--|:--|
@@ -121,25 +122,6 @@ I practice problem-solving in **Java**, focusing on understanding *why* an algor
 | Stacks & queues | Binary search | Backtracking |
 
 <sub>📍 My approach: understand → implement → test edge cases → optimize → explain.</sub>
-
-<br />
-
-#### 🌱 Practicing on LeetCode & HackerRank
-
-I'm continuing to work through **arrays, strings, linked lists, two pointers, sliding window, binary search, and problem-solving fundamentals**. I use both platforms to track my progress as I learn.
-
-<div align="center">
-
-<a href="https://leetcode.com/u/rohansaigorumutchu/"><img src="https://img.shields.io/badge/LeetCode-My%20progress-6776A1?style=flat-square&amp;logo=leetcode&amp;logoColor=F0F1FA" alt="Rohan's LeetCode profile" /></a>
-<a href="https://www.hackerrank.com/profile/h24020301819"><img src="https://img.shields.io/badge/HackerRank-My%20progress-688E99?style=flat-square&amp;logo=hackerrank&amp;logoColor=F0F1FA" alt="Rohan's HackerRank profile" /></a>
-
-<br />
-
-<a href="https://leetcode.com/u/rohansaigorumutchu/"><img src="https://leetcard.jacoblin.cool/rohansaigorumutchu?theme=dark&amp;font=JetBrains%20Mono&amp;ext=heatmap" alt="LeetCode activity and solved problems; live statistics may be cached" /></a>
-
-<sub>Live LeetCode statistics are provided by an external service. See my profiles for the latest results.</sub>
-
-</div>
 
 <br />
 
