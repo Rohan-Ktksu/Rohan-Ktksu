@@ -18,6 +18,7 @@
 <br />
 
 <a href="https://github.com/Rohan-Ktksu?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-253A54?style=for-the-badge&amp;logo=github&amp;logoColor=D5E6F0" alt="Explore my GitHub repositories" /></a>
+<a href="https://github.com/Rohan-Ktksu/CampusResolve-AI"><img src="https://img.shields.io/badge/Latest%20project-CampusResolve%20AI-5F7798?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F0F1FA" alt="View CampusResolve AI" /></a>
 <a href="https://github.com/Rohan-Ktksu/Butterflyts"><img src="https://img.shields.io/badge/Current%20project-Butterflyts-6776A1?style=for-the-badge&amp;logo=python&amp;logoColor=F0F1FA" alt="View Butterflyts" /></a>
 
 </div>
