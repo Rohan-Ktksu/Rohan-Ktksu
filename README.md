@@ -30,7 +30,7 @@
 I'm **Rohan Sai**, a computer science student building software at the intersection of **backend engineering**, **machine learning**, **language technology**, and **real-world data**. I enjoy taking ideas from early experiments to tested, documented applications.
 
 - ☕ Building my foundation in **Java, data structures, and backend development**
-- 🐍 Using **Python** to explore data, automation, and machine learning
+- 🐍 Building with **Python, FastAPI, React, and TypeScript** across data, APIs, and web apps
 - ✈️ Working on **Butterflyts** — an aviation data and flight-pattern analysis project
 - 🧠 Building **Axynetra** (explainable network-threat classification) and **ShabdAnveshi** (bilingual reverse dictionary)
 - 🏫 Collaborating on **CampusResolve AI**, an AI-assisted campus issue-resolution platform
@@ -49,13 +49,13 @@ I'm **Rohan Sai**, a computer science student building software at the intersect
 
 **Development tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA technology icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA technology icons" />
 
-**Currently exploring**
+**Growing into**
 
 <img src="https://skillicons.dev/icons?i=spring,pytorch&amp;theme=dark" alt="Spring and PyTorch technology icons" />
 
-<sub>Also learning: REST APIs · Pandas · NumPy · Machine Learning · NLP · LLM fundamentals</sub>
+<sub>Also working with: REST APIs · Pandas · NumPy · scikit-learn · data visualization · ML/NLP · GIS</sub>
 
 </div>
 
@@ -96,11 +96,14 @@ Selected public work, from research prototypes to deployed applications:
 | [**CampusResolve AI**](https://github.com/Rohan-Ktksu/CampusResolve-AI) · [Live demo](https://campusresolve-ai-sigma.vercel.app/app) | Team-built campus issue reporting, routing, analytics and local NLP-assisted triage | React · FastAPI · PostgreSQL · NLTK |
 | [**Axynetra**](https://github.com/Rohan-Ktksu/axynetra) | Explainable multi-class network traffic classification and alert triage; includes notebooks and a dashboard | Python · scikit-learn · Streamlit |
 | [**ShabdAnveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) · [Live site](https://rohan-ktksu.github.io/shabdanveshi/) | English/Hindi reverse dictionary using semantic retrieval and translation | React · TypeScript · FastAPI · NLP |
-| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) · [Explore map](https://rohan-ktksu.github.io/bengaluru-heat-atlas/) | Satellite-derived land-surface heat analysis and mapping; historical research snapshot | Python · Geospatial data · Web |
-| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Historical county-level electricity outage-burden research with weather-related features | Python · Machine learning |
-| [**SelahFrame**](https://github.com/Rohan-Ktksu/selahframe) | Local Windows studio for creating narrated scripture videos; cloud deployment still in development | Python · SQLite · FFmpeg |
-| [**Careva**](https://github.com/Rohan-Ktksu/careva_website) | Career-guidance platform prototype with profiles and recommendations | React · Flask |
-| [**Portfolio**](https://rohan-ktksu.github.io/rohan-sai-portfolio/) | My project portfolio, built as a responsive website | HTML · CSS · TypeScript |
+| [**CampusResolve AI**](https://github.com/Rohan-Ktksu/CampusResolve-AI) | Campus issue management prototype with local NLP triage, reports, and resolution analytics ([demo](https://campusresolve-ai-sigma.vercel.app/app)) | React · FastAPI · PostgreSQL |
+| [**Axynetra**](https://github.com/Rohan-Ktksu/axynetra) | Explainable multi-class network threat classification and alert-triage research; distinguishes synthetic demonstrations from sampled UNSW-NB15 results | Python · scikit-learn · Streamlit |
+| [**ShabdAnveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) | Bilingual English/Hindi reverse dictionary ([try it](https://rohan-ktksu.github.io/shabdanveshi/)) | React · TypeScript · FastAPI · NLP |
+| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) | Satellite-derived land-surface heat research, hotspot clustering, and an [interactive atlas](https://rohan-ktksu.github.io/bengaluru-heat-atlas/) | Python · Geospatial · Web |
+| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Historical, county-level short-horizon high-outage-burden research (not a live forecast) | Python · Machine learning |
+| [**SelahFrame**](https://github.com/Rohan-Ktksu/selahframe) | Local Windows scripture-video creation studio with approved narration, captions, and export tracking | Python · FFmpeg · SQLite |
+| [**Careva**](https://github.com/Rohan-Ktksu/careva_website) | Student career-guidance web application with learning roadmaps and coaching features | React · Flask |
+| [**Personal Portfolio**](https://github.com/Rohan-Ktksu/rohan-sai-portfolio) | My [portfolio website](https://rohan-ktksu.github.io/rohan-sai-portfolio/), projects, and learning journey | HTML · CSS · TypeScript |
 
 <div align="center">
 
@@ -131,20 +134,26 @@ I practice problem-solving in **Java**, focusing on understanding *why* an algor
 
 <br />
 
-### 📈 A glimpse of my GitHub
+### 📈 GitHub activity and contributions
 
 <div align="center">
 
-<a href="https://github.com/Rohan-Ktksu"><img src="./assets/github-activity.svg" width="900" alt="Public GitHub activity counts: commits, pull requests and issues opened" /></a>
+<img width="900" src="./assets/github-activity.svg" alt="Public GitHub commits, pull requests and issues opened. Refreshed daily by a GitHub Actions workflow." />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohan-Ktksu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA&amp;icon_color=8FCFC6&amp;rank_icon=github" alt="Rohan's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA" alt="Rohan's top GitHub languages" />
+<sub>Public, searchable activity across GitHub. Counts are generated from GitHub Search and can differ from the contribution graph (which has separate attribution and private-activity rules). The graphic updates daily when GitHub Actions runs successfully.</sub>
 
-<img src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;hide_border=true&amp;background=0D1117&amp;ring=9FB4E8&amp;fire=A9D4CE&amp;currStreakLabel=BFC8DA&amp;sideLabels=BFC8DA&amp;dates=8796B2&amp;currStreakNum=E5EAF6&amp;sideNums=E5EAF6" alt="Rohan's GitHub contribution streak" />
+<br />
 
-<sub>Public activity above is refreshed daily by [GitHub Actions](./.github/workflows/profile-activity.yml) using GitHub Search data. It includes publicly searchable commits, authored PRs and opened issues, which may differ from GitHub contribution totals; search-index delays can occur. Until the first successful workflow run, the activity graphic may not be present. Stats and streak cards are third-party services and can be cached or rate-limited.</sub>
+<a href="https://github.com/search?q=author%3ARohan-Ktksu&type=commits">Commits</a> ·
+<a href="https://github.com/pulls/Rohan-Ktksu">Pull requests</a> ·
+<a href="https://github.com/issues/created_by/Rohan-Ktksu">Issues</a> ·
+<a href="https://github.com/Rohan-Ktksu?tab=overview">Contribution graph</a>
 
-[View commits](https://github.com/search?q=author%3ARohan-Ktksu&type=commits) · [View pull requests](https://github.com/search?q=is%3Apr+author%3ARohan-Ktksu&type=pullrequests) · [View issues](https://github.com/search?q=is%3Aissue+author%3ARohan-Ktksu&type=issues) · [Contribution history](https://github.com/Rohan-Ktksu?tab=overview)
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA" alt="Most-used public repository languages; excludes some private repository activity" />
+
+<img src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;hide_border=true&amp;background=0D1117&amp;ring=9FB4E8&amp;fire=A9D4CE&amp;currStreakLabel=BFC8DA&amp;sideLabels=BFC8DA&amp;dates=8796B2&amp;currStreakNum=E5EAF6&amp;sideNums=E5EAF6" alt="Contribution streak; third-party display may be cached" />
 
 </div>
 
