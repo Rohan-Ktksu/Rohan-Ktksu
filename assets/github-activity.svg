@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="152" viewBox="0 0 900 152" role="img" aria-label="GitHub public activity is being synchronized">
+<rect width="900" height="152" rx="16" fill="#0D1117"/>
+<rect x="7" y="7" width="886" height="138" rx="14" fill="#151E2B" stroke="#344459"/>
+<text x="450" y="64" text-anchor="middle" fill="#A9BCEB" font-size="23" font-family="Arial,sans-serif" font-weight="700">GitHub public activity</text>
+<text x="450" y="101" text-anchor="middle" fill="#BACADB" font-size="17" font-family="Arial,sans-serif">Commits · Pull requests · Issues — daily sync starting</text>
+</svg>
