@@ -134,28 +134,23 @@ I practice problem-solving in **Java**, focusing on understanding *why* an algor
 
 <br />
 
-### 📈 GitHub activity and contributions
+### 📈 A glimpse of my GitHub
 
 <div align="center">
 
-<img width="900" src="./assets/github-activity.svg" alt="Public GitHub commits, pull requests and issues opened. Refreshed daily by a GitHub Actions workflow." />
-
-<sub>Public GitHub Search counts: authored commits, opened pull requests, and opened issues. Updated daily by [this GitHub Actions workflow](.github/workflows/profile-activity.yml). These counts are not the same as GitHub's contribution-calendar total and may lag while GitHub indexes new activity.</sub>
-
-<br />
-
-<a href="https://github.com/search?q=author%3ARohan-Ktksu&type=commits">Commits</a> ·
-<a href="https://github.com/pulls/Rohan-Ktksu">Pull requests</a> ·
-<a href="https://github.com/issues/created_by/Rohan-Ktksu">Issues</a> ·
-<a href="https://github.com/Rohan-Ktksu?tab=overview">Contribution graph</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA&amp;cache_seconds=1800" alt="Rohan's most used public repository languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;hide_border=true&amp;background=0D1117&amp;ring=9FB4E8&amp;fire=A9D4CE&amp;currStreakLabel=BFC8DA&amp;sideLabels=BFC8DA&amp;dates=8796B2&amp;currStreakNum=E5EAF6&amp;sideNums=E5EAF6&amp;mode=daily&amp;v=20261024" alt="Rohan's GitHub contribution streak, refreshed" />
 
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA" alt="GitHub public repository language distribution, not skill proficiency" />
+<img src="./assets/github-activity.svg" width="750" alt="Automatically refreshed public commits, pull requests and issues opened" />
+
+<sub>Public commit, PR and issue counts refresh daily from GitHub. The streak graphic tracks consecutive contribution days according to its provider; it can differ from the commit count and may be cached.</sub>
 
 <br />
 
-<sub>Language percentages reflect the types and sizes of files in public repositories, **not** skill proficiency. Notebooks and HTML-heavy projects may dominate. For your actual contribution days and streak, use GitHub's [contribution calendar](https://github.com/Rohan-Ktksu?tab=overview); contribution totals follow different eligibility rules from the public activity counters above.</sub>
+<a href="https://github.com/Rohan-Ktksu?tab=overview">GitHub contribution calendar</a> ·
+<a href="https://github.com/search?q=author%3ARohan-Ktksu&amp;type=commits">All public commits</a>
 
 </div>
 
