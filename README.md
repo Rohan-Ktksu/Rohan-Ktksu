@@ -27,12 +27,14 @@
 
 ### 🌙 A little about me
 
-I'm **Rohan**, a computer science student who enjoys figuring out how things work and turning interesting ideas into useful software. I like the intersection of **clean code**, **thoughtful design**, and **real-world data**.
+I'm **Rohan Sai**, a computer science student building software at the intersection of **backend engineering**, **machine learning**, **language technology**, and **real-world data**. I enjoy taking ideas from early experiments to tested, documented applications.
 
 - ☕ Building my foundation in **Java, data structures, and backend development**
 - 🐍 Using **Python** to explore data, automation, and machine learning
 - ✈️ Working on **Butterflyts** — an aviation data and flight-pattern analysis project
-- 🌱 Currently diving deeper into **Spring Boot, deep learning, and LLMs**
+- 🧠 Building **Axynetra** (explainable network-threat classification) and **ShabdAnveshi** (bilingual reverse dictionary)
+- 🏫 Collaborating on **CampusResolve AI**, an AI-assisted campus issue-resolution platform
+- 🌱 Deepening my skills in **Spring Boot, TypeScript, deep learning, and LLMs**
 - ✨ My philosophy: *make it useful, make it understandable, then make it better*
 
 <br />
@@ -43,11 +45,11 @@ I'm **Rohan**, a computer science student who enjoys figuring out how things wor
 
 **Languages & fundamentals**
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql&amp;theme=dark" alt="Java, Python and MySQL technology icons" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql&amp;theme=dark" alt="Java, Python and MySQL technology icons" />
 
 **Development tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA technology icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA technology icons" />
 
 **Currently exploring**
 
@@ -85,17 +87,20 @@ I'm **Rohan**, a computer science student who enjoys figuring out how things wor
 
 <br />
 
-### 🌌 More projects in the works
+### 🌌 Selected projects
 
-A few other things I'm building and learning from, beyond Butterflyts:
+Selected public work, from research prototypes to deployed applications:
 
-| Project | What I'm exploring | Tech |
+| Project | What it does | Stack |
 |:--|:--|:--|
-| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) | Satellite-driven urban heat analysis and cooling-priority mapping | Geospatial · HTML |
-| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Data-driven exploration of electricity interruptions | Python · Data analysis |
-| [**Shabdanveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) | A new project under development | TypeScript |
-| [**Careva Website**](https://github.com/Rohan-Ktksu/careva_website) | Building and iterating on a web application | Web development |
-| [**Personal Portfolio**](https://github.com/Rohan-Ktksu/rohan-sai-portfolio) | A home for projects and a record of what I'm learning | HTML · CSS |
+| [**CampusResolve AI**](https://github.com/Rohan-Ktksu/CampusResolve-AI) · [Live demo](https://campusresolve-ai-sigma.vercel.app/app) | Team-built campus issue reporting, routing, analytics and local NLP-assisted triage | React · FastAPI · PostgreSQL · NLTK |
+| [**Axynetra**](https://github.com/Rohan-Ktksu/axynetra) | Explainable multi-class network traffic classification and alert triage; includes notebooks and a dashboard | Python · scikit-learn · Streamlit |
+| [**ShabdAnveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) · [Live site](https://rohan-ktksu.github.io/shabdanveshi/) | English/Hindi reverse dictionary using semantic retrieval and translation | React · TypeScript · FastAPI · NLP |
+| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) · [Explore map](https://rohan-ktksu.github.io/bengaluru-heat-atlas/) | Satellite-derived land-surface heat analysis and mapping; historical research snapshot | Python · Geospatial data · Web |
+| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Historical county-level electricity outage-burden research with weather-related features | Python · Machine learning |
+| [**SelahFrame**](https://github.com/Rohan-Ktksu/selahframe) | Local Windows studio for creating narrated scripture videos; cloud deployment still in development | Python · SQLite · FFmpeg |
+| [**Careva**](https://github.com/Rohan-Ktksu/careva_website) | Career-guidance platform prototype with profiles and recommendations | React · Flask |
+| [**Portfolio**](https://rohan-ktksu.github.io/rohan-sai-portfolio/) | My project portfolio, built as a responsive website | HTML · CSS · TypeScript |
 
 <div align="center">
 
@@ -130,12 +135,16 @@ I practice problem-solving in **Java**, focusing on understanding *why* an algor
 
 <div align="center">
 
+<a href="https://github.com/Rohan-Ktksu"><img src="./assets/github-activity.svg" width="900" alt="Public GitHub activity counts: commits, pull requests and issues opened" /></a>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohan-Ktksu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA&amp;icon_color=8FCFC6&amp;rank_icon=github" alt="Rohan's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA" alt="Rohan's top GitHub languages" />
 
 <img src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;hide_border=true&amp;background=0D1117&amp;ring=9FB4E8&amp;fire=A9D4CE&amp;currStreakLabel=BFC8DA&amp;sideLabels=BFC8DA&amp;dates=8796B2&amp;currStreakNum=E5EAF6&amp;sideNums=E5EAF6" alt="Rohan's GitHub contribution streak" />
 
-<sub>These live cards are provided by external services; they may occasionally be rate-limited.</sub>
+<sub>Public activity above is refreshed daily by [GitHub Actions](./.github/workflows/profile-activity.yml) using GitHub Search data. It includes publicly searchable commits, authored PRs and opened issues, which may differ from GitHub contribution totals; search-index delays can occur. Until the first successful workflow run, the activity graphic may not be present. Stats and streak cards are third-party services and can be cached or rate-limited.</sub>
+
+[View commits](https://github.com/search?q=author%3ARohan-Ktksu&type=commits) · [View pull requests](https://github.com/search?q=is%3Apr+author%3ARohan-Ktksu&type=pullrequests) · [View issues](https://github.com/search?q=is%3Aissue+author%3ARohan-Ktksu&type=issues) · [Contribution history](https://github.com/Rohan-Ktksu?tab=overview)
 
 </div>
 
@@ -146,9 +155,9 @@ I practice problem-solving in **Java**, focusing on understanding *why* an algor
 ```text
 01  Deepen Java + Spring Boot fundamentals
 02  Keep practicing DSA consistently
-03  Grow Butterflyts into a stronger data project
-04  Learn the math and engineering behind LLMs
-05  Build projects that solve real problems
+03  Grow Butterflyts and my data research work
+04  Explore ML, NLP, and practical LLM engineering
+05  Ship, test, and document useful applications
 ```
 
 <br />
