@@ -32,4 +32,6 @@ jobs:
           git add assets/github-activity.svg
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "chore(profile): refresh public activity counts"
-          git push
+          git pull --rebase origin main 
+          git push origin HEAD:main
+          
