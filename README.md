@@ -45,11 +45,11 @@ I'm **Rohan Sai**, a computer science student building software at the intersect
 
 **Languages & fundamentals**
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql&amp;theme=dark" alt="Java, Python and MySQL technology icons" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql&amp;theme=dark" alt="Java, Python, TypeScript, JavaScript and MySQL technology icons" />
 
 **Development tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code and IntelliJ IDEA technology icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, React and FastAPI technology icons" />
 
 **Growing into**
 
