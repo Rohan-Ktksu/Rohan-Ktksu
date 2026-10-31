@@ -51,26 +51,16 @@ I'm **Rohan Sai**, a computer science student building software at the intersect
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, React and FastAPI technology icons" />
 
+<br />
+
+<img src="https://img.shields.io/badge/Kaggle-Community%20Member-5F7798?style=for-the-badge&amp;logo=kaggle&amp;logoColor=F0F1FA" alt="Kaggle Community Member badge" />
+<img src="https://img.shields.io/badge/Kaggle-1%20Year-688E99?style=for-the-badge&amp;logo=kaggle&amp;logoColor=F0F1FA" alt="1 Year on Kaggle badge" />
+
 **Growing into**
 
 <img src="https://skillicons.dev/icons?i=spring,pytorch&amp;theme=dark" alt="Spring and PyTorch technology icons" />
 
 <sub>Also working with: REST APIs · Pandas · NumPy · scikit-learn · data visualization · ML/NLP · GIS</sub>
-
-</div>
-
-<br />
-
-### 🏅 Kaggle badges
-
-<div align="center">
-
-<a href="./assets/kaggle-community-member.png"><img src="./assets/kaggle-community-member.png" width="420" alt="Kaggle Community Member badge awarded to Rohan Sai Gorumutchu on December 18, 2025" /></a>
-<a href="./assets/kaggle-one-year.png"><img src="./assets/kaggle-one-year.png" width="420" alt="1 Year on Kaggle badge awarded to Rohan Sai Gorumutchu on August 24, 2026" /></a>
-
-<br />
-
-<sub>Click a badge to view the full certificate.</sub>
 
 </div>
 
