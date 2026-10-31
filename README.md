@@ -61,6 +61,21 @@ I'm **Rohan Sai**, a computer science student building software at the intersect
 
 <br />
 
+### 🏅 Kaggle badges
+
+<div align="center">
+
+<a href="./assets/kaggle-community-member.png"><img src="./assets/kaggle-community-member.png" width="420" alt="Kaggle Community Member badge awarded to Rohan Sai Gorumutchu on December 18, 2025" /></a>
+<a href="./assets/kaggle-one-year.png"><img src="./assets/kaggle-one-year.png" width="420" alt="1 Year on Kaggle badge awarded to Rohan Sai Gorumutchu on August 24, 2026" /></a>
+
+<br />
+
+<sub>Click a badge to view the full certificate.</sub>
+
+</div>
+
+<br />
+
 ### ✈️ Featured project — Butterflyts
 
 <a href="https://github.com/Rohan-Ktksu/Butterflyts"><img src="https://img.shields.io/badge/Butterflyts-View%20repository-5F7798?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Butterflyts GitHub repository" /></a>
