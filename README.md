@@ -2,6 +2,8 @@
 
 I'm a computer science student building web applications, backend systems, and applied machine learning projects. I enjoy making complex ideas useful and easy to understand.
 
+**Explore:** [Projects](#projects) · [Tools](#tools-i-work-with) · [Connect](#connect)
+
 ## Projects
 
 - **[Bolmava](https://github.com/Rohan-Ktksu/bolmava)** — a B2B commerce prototype for Indian buyers and sellers, with English/Telugu screens and simulated transactions.
@@ -16,28 +18,34 @@ I'm a computer science student building web applications, backend systems, and a
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-283241?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-283241?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-283241?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-283241?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-283241?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C25E00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks and tools**
+**Web, APIs and data**
 
-![React](https://img.shields.io/badge/React-283241?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-283241?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-283241?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-283241?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-283241?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-007F73?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Learning:** Spring Boot, PyTorch, and practical LLM engineering.
+**Development tools**
 
-**Kaggle badges**
+![Git](https://img.shields.io/badge/Git-C84327?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6F42C1?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-30324A?style=flat-square&logo=intellijidea&logoColor=white)
 
-![Kaggle Community Member](https://img.shields.io/badge/Kaggle-Community%20Member-287C99?style=flat-square&logo=kaggle&logoColor=white)
-![1 Year on Kaggle](https://img.shields.io/badge/Kaggle-1%20Year-287C99?style=flat-square&logo=kaggle&logoColor=white)
+**Learning:** Spring Boot · PyTorch · practical LLM engineering
 
-## More about me
+**Kaggle milestones**
 
-- [Portfolio](https://rohan-ktksu.github.io/rohan-sai-portfolio/)
-- [LeetCode](https://leetcode.com/u/rohansaigorumutchu/) · [HackerRank](https://www.hackerrank.com/profile/h24020301819)
+![Kaggle Community Member](https://img.shields.io/badge/Kaggle-Community%20Member-00759E?style=flat-square&logo=kaggle&logoColor=white)
+![1 Year on Kaggle](https://img.shields.io/badge/Kaggle-1%20Year-00759E?style=flat-square&logo=kaggle&logoColor=white)
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6F42C1?style=flat-square&logo=githubpages&logoColor=white)](https://rohan-ktksu.github.io/rohan-sai-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohansaigorumutchu/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h24020301819)
