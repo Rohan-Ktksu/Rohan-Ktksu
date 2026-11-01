@@ -1,182 +1,43 @@
-<!--
-  Hi, I'm Rohan! 👋
-  A quiet cyberpunk / aurora-inspired profile README.
-  GitHub username: Rohan-Ktksu
-  Place README.md and the assets/ folder together in your profile repository.
--->
+# Hi, I'm Rohan Sai 👋
 
-<div align="center">
+I'm a computer science student building web applications, backend systems, and applied machine learning projects. I enjoy making complex ideas useful and easy to understand.
 
-<img src="./assets/aurora-banner.svg" width="100%" alt="Rohan — building with curiosity, one idea at a time. Aurora sky with an aircraft flight path" />
+## Projects
 
-<br />
+- **[Bolmava](https://github.com/Rohan-Ktksu/bolmava)** — a B2B commerce prototype for Indian buyers and sellers, with English/Telugu screens and simulated transactions.
+- **[Butterflyts](https://github.com/Rohan-Ktksu/Butterflyts)** — aviation data collection and flight-pattern analysis.
+- **[CampusResolve AI](https://github.com/Rohan-Ktksu/CampusResolve-AI)** — a team-built campus issue reporting and triage app. [Try the demo](https://campusresolve-ai-sigma.vercel.app/app).
+- **[ShabdAnveshi](https://github.com/Rohan-Ktksu/shabdanveshi)** — an English/Hindi reverse dictionary. [Visit the site](https://rohan-ktksu.github.io/shabdanveshi/).
+- **[Axynetra](https://github.com/Rohan-Ktksu/axynetra)** — explainable network-traffic classification research.
 
-<a href="https://github.com/Rohan-Ktksu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=3300&amp;pause=1300&amp;color=8EB9CE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Java+%26+backend+development+%E2%98%95;Learning+AI+%26+intelligent+systems+%F0%9F%8C%8C;Exploring+the+skies+through+data+%E2%9C%88%EF%B8%8F;Small+steps.+Meaningful+builds.+%E2%9C%A8" alt="Typing introduction: Java and backend development, AI, aviation analytics" />
-</a>
+[See all my repositories](https://github.com/Rohan-Ktksu?tab=repositories)
 
-<br />
+## Tools I work with
 
-<a href="https://github.com/Rohan-Ktksu?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-253A54?style=for-the-badge&amp;logo=github&amp;logoColor=D5E6F0" alt="Explore my GitHub repositories" /></a>
-<a href="https://github.com/Rohan-Ktksu/CampusResolve-AI"><img src="https://img.shields.io/badge/Latest%20project-CampusResolve%20AI-5F7798?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F0F1FA" alt="View CampusResolve AI" /></a>
-<a href="https://github.com/Rohan-Ktksu/Butterflyts"><img src="https://img.shields.io/badge/Current%20project-Butterflyts-6776A1?style=for-the-badge&amp;logo=python&amp;logoColor=F0F1FA" alt="View Butterflyts" /></a>
+**Languages**
 
-</div>
+![Java](https://img.shields.io/badge/Java-283241?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-283241?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-283241?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-283241?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-283241?style=flat-square&logo=postgresql&logoColor=white)
 
-<br />
+**Frameworks and tools**
 
-### 🌙 A little about me
+![React](https://img.shields.io/badge/React-283241?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-283241?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-283241?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-283241?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-283241?style=flat-square&logo=github&logoColor=white)
 
-I'm **Rohan Sai**, a computer science student building software at the intersection of **backend engineering**, **machine learning**, **language technology**, and **real-world data**. I enjoy taking ideas from early experiments to tested, documented applications.
+**Learning:** Spring Boot, PyTorch, and practical LLM engineering.
 
-- ☕ Building my foundation in **Java, data structures, and backend development**
-- 🐍 Building with **Python, FastAPI, React, and TypeScript** across data, APIs, and web apps
-- ✈️ Working on **Butterflyts** — an aviation data and flight-pattern analysis project
-- 🧠 Building **Axynetra** (explainable network-threat classification) and **ShabdAnveshi** (bilingual reverse dictionary)
-- 🏫 Collaborating on **CampusResolve AI**, an AI-assisted campus issue-resolution platform
-- 🌱 Deepening my skills in **Spring Boot, TypeScript, deep learning, and LLMs**
-- ✨ My philosophy: *make it useful, make it understandable, then make it better*
+**Kaggle badges**
 
-<br />
+![Kaggle Community Member](https://img.shields.io/badge/Kaggle-Community%20Member-287C99?style=flat-square&logo=kaggle&logoColor=white)
+![1 Year on Kaggle](https://img.shields.io/badge/Kaggle-1%20Year-287C99?style=flat-square&logo=kaggle&logoColor=white)
 
-### 🪄 Tools I work with
+## More about me
 
-<div align="center">
-
-**Languages & fundamentals**
-
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,mysql&amp;theme=dark" alt="Java, Python, TypeScript, JavaScript and MySQL technology icons" />
-
-**Development tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,react,fastapi&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, React and FastAPI technology icons" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Kaggle-Community%20Member-5F7798?style=for-the-badge&amp;logo=kaggle&amp;logoColor=F0F1FA" alt="Kaggle Community Member badge" />
-<img src="https://img.shields.io/badge/Kaggle-1%20Year-688E99?style=for-the-badge&amp;logo=kaggle&amp;logoColor=F0F1FA" alt="1 Year on Kaggle badge" />
-
-**Growing into**
-
-<img src="https://skillicons.dev/icons?i=spring,pytorch&amp;theme=dark" alt="Spring and PyTorch technology icons" />
-
-<sub>Also working with: REST APIs · Pandas · NumPy · scikit-learn · data visualization · ML/NLP · GIS</sub>
-
-</div>
-
-<br />
-
-### ✈️ Featured project — Butterflyts
-
-<a href="https://github.com/Rohan-Ktksu/Butterflyts"><img src="https://img.shields.io/badge/Butterflyts-View%20repository-5F7798?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Butterflyts GitHub repository" /></a>
-<img src="https://img.shields.io/badge/Focus-Aviation%20analytics-688E99?style=flat-square" alt="Focus: aviation analytics" />
-
-> A hands-on project that explores the world above us through flight data — from live aircraft positions to movement patterns around airports.
-
-<div align="center">
-
-<img src="./assets/adsb-pipeline.svg" width="85%" alt="Butterflyts workflow: live ADS-B data → collect and clean data → runway context and movement metrics → classification and visualization" />
-
-<sub>From live aircraft signals to runway-aware insights.</sub>
-
-</div>
-
-**What I'm building and exploring:**
-
-- Live aircraft position collection using ADS-B sources
-- Runway-aware mapping and flight trajectory visualization
-- Distance and bearing calculations
-- Flight-pattern classification and historical analysis
-
-**Stack:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Parquet` · `Git`
-
-<br />
-
-### 🌌 Selected projects
-
-Selected public work, from research prototypes to deployed applications:
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**CampusResolve AI**](https://github.com/Rohan-Ktksu/CampusResolve-AI) · [Live demo](https://campusresolve-ai-sigma.vercel.app/app) | Team-built campus issue reporting, routing, analytics and local NLP-assisted triage | React · FastAPI · PostgreSQL · NLTK |
-| [**Axynetra**](https://github.com/Rohan-Ktksu/axynetra) | Explainable multi-class network traffic classification and alert triage; includes notebooks and a dashboard | Python · scikit-learn · Streamlit |
-| [**ShabdAnveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) · [Live site](https://rohan-ktksu.github.io/shabdanveshi/) | English/Hindi reverse dictionary using semantic retrieval and translation | React · TypeScript · FastAPI · NLP |
-| [**CampusResolve AI**](https://github.com/Rohan-Ktksu/CampusResolve-AI) | Campus issue management prototype with local NLP triage, reports, and resolution analytics ([demo](https://campusresolve-ai-sigma.vercel.app/app)) | React · FastAPI · PostgreSQL |
-| [**Axynetra**](https://github.com/Rohan-Ktksu/axynetra) | Explainable multi-class network threat classification and alert-triage research; distinguishes synthetic demonstrations from sampled UNSW-NB15 results | Python · scikit-learn · Streamlit |
-| [**ShabdAnveshi**](https://github.com/Rohan-Ktksu/shabdanveshi) | Bilingual English/Hindi reverse dictionary ([try it](https://rohan-ktksu.github.io/shabdanveshi/)) | React · TypeScript · FastAPI · NLP |
-| [**Bengaluru Heat Atlas**](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) | Satellite-derived land-surface heat research, hotspot clustering, and an [interactive atlas](https://rohan-ktksu.github.io/bengaluru-heat-atlas/) | Python · Geospatial · Web |
-| [**Michigan Powercut Model**](https://github.com/Rohan-Ktksu/michigan-powercut-model) | Historical, county-level short-horizon high-outage-burden research (not a live forecast) | Python · Machine learning |
-| [**SelahFrame**](https://github.com/Rohan-Ktksu/selahframe) | Local Windows scripture-video creation studio with approved narration, captions, and export tracking | Python · FFmpeg · SQLite |
-| [**Careva**](https://github.com/Rohan-Ktksu/careva_website) | Student career-guidance web application with learning roadmaps and coaching features | React · Flask |
-| [**Personal Portfolio**](https://github.com/Rohan-Ktksu/rohan-sai-portfolio) | My [portfolio website](https://rohan-ktksu.github.io/rohan-sai-portfolio/), projects, and learning journey | HTML · CSS · TypeScript |
-
-<div align="center">
-
-<a href="https://github.com/Rohan-Ktksu?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-Explore-253A54?style=flat-square&amp;logo=github&amp;logoColor=D5E6F0" alt="Explore all repositories" /></a>
-
-</div>
-
-<br />
-
-### 🧩 DSA — getting a little better every day
-
-I practice problem-solving in **Java**, focusing on understanding *why* an algorithm works, not just getting the accepted answer. I work through LeetCode patterns and HackerRank challenges, especially arrays, strings, and linked lists.
-
-<div align="center">
-
-<a href="https://leetcode.com/u/rohansaigorumutchu/"><img src="https://img.shields.io/badge/LeetCode-My%20progress-5F7798?style=for-the-badge&amp;logo=leetcode&amp;logoColor=F0F1FA" alt="View my LeetCode profile" /></a>
-<a href="https://www.hackerrank.com/profile/h24020301819"><img src="https://img.shields.io/badge/HackerRank-My%20progress-688E99?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=F0F1FA" alt="View my HackerRank profile" /></a>
-
-</div>
-
-| Foundations | Problem-solving patterns | Next horizons |
-|:--|:--|:--|
-| Arrays & strings | Two pointers | Trees & graphs |
-| Linked lists | Sliding window | Dynamic programming |
-| Stacks & queues | Binary search | Backtracking |
-
-<sub>📍 My approach: understand → implement → test edge cases → optimize → explain.</sub>
-
-<br />
-
-### 📈 A glimpse of my GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Ktksu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A9BCEB&amp;text_color=BFC8DA&amp;cache_seconds=1800" alt="Rohan's most used public repository languages" />
-<img height="165" src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;hide_border=true&amp;background=0D1117&amp;ring=9FB4E8&amp;fire=A9D4CE&amp;currStreakLabel=BFC8DA&amp;sideLabels=BFC8DA&amp;dates=8796B2&amp;currStreakNum=E5EAF6&amp;sideNums=E5EAF6&amp;mode=daily&amp;v=20261024" alt="Rohan's GitHub contribution streak, refreshed" />
-
-<br />
-
-<img src="./assets/github-activity.svg" width="750" alt="Automatically refreshed public commits, pull requests and issues opened" />
-
-<sub>Public commit, PR and issue counts refresh daily from GitHub. The streak graphic tracks consecutive contribution days according to its provider; it can differ from the commit count and may be cached.</sub>
-
-<br />
-
-<a href="https://github.com/Rohan-Ktksu?tab=overview">GitHub contribution calendar</a> ·
-<a href="https://github.com/search?q=author%3ARohan-Ktksu&amp;type=commits">All public commits</a>
-
-</div>
-
-<br />
-
-### 🧭 What I'm focusing on
-
-```text
-01  Deepen Java + Spring Boot fundamentals
-02  Keep practicing DSA consistently
-03  Grow Butterflyts and my data research work
-04  Explore ML, NLP, and practical LLM engineering
-05  Ship, test, and document useful applications
-```
-
-<br />
-
-<div align="center">
-
-<img src="./assets/aurora-footer.svg" width="100%" alt="Stay curious. Keep creating." />
-
-<sub>Thanks for stopping by — feel free to explore my repositories ✨</sub>
-
-</div>
+- [Portfolio](https://rohan-ktksu.github.io/rohan-sai-portfolio/)
+- [LeetCode](https://leetcode.com/u/rohansaigorumutchu/) · [HackerRank](https://www.hackerrank.com/profile/h24020301819)
