@@ -1,3 +1,4 @@
+
 # Hi, I'm Rohan Sai 👋
 
 I'm a computer science student building web applications, backend systems, and applied machine learning projects. I enjoy making complex ideas useful and easy to understand.
@@ -14,8 +15,26 @@ I'm a computer science student building web applications, backend systems, and a
 
 [See all my repositories](https://github.com/Rohan-Ktksu?tab=repositories)
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;theme=dark&amp;hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;theme=default&amp;hide_border=true"
+      />
+      <img
+        alt="Rohan Sai's GitHub Contribution Streak"
+        src="https://streak-stats.demolab.com?user=Rohan-Ktksu&amp;theme=default&amp;hide_border=true"
+        width="650"
+      />
+    </picture>
+  </a>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ## Tools I work with
 
 **Languages**
