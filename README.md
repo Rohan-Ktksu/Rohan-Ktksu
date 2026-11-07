@@ -14,7 +14,7 @@ I'm a computer science student building web applications, backend systems, and a
 
 [See all my repositories](https://github.com/Rohan-Ktksu?tab=repositories)
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ## Tools I work with
 
 **Languages**
