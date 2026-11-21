@@ -7,11 +7,26 @@ I'm a computer science student building web applications, backend systems, and a
 
 ## Projects
 
-- **[Bolmava](https://github.com/Rohan-Ktksu/bolmava)** — a B2B commerce prototype for Indian buyers and sellers, with English/Telugu screens and simulated transactions.
-- **[Butterflyts](https://github.com/Rohan-Ktksu/Butterflyts)** — aviation data collection and flight-pattern analysis.
-- **[CampusResolve AI](https://github.com/Rohan-Ktksu/CampusResolve-AI)** — a team-built campus issue reporting and triage app. [Try the demo](https://campusresolve-ai-sigma.vercel.app/app).
-- **[ShabdAnveshi](https://github.com/Rohan-Ktksu/shabdanveshi)** — an English/Hindi reverse dictionary. [Visit the site](https://rohan-ktksu.github.io/shabdanveshi/).
-- **[Axynetra](https://github.com/Rohan-Ktksu/axynetra)** — explainable network-traffic classification research.
+### Energy and climate
+
+- **NivaWatt** — Apartment energy scheduling for water pumps and EV charging. v4.0.0 adds a 3D campus simulator and a synthetic 30-day billing replay. [Repository](https://github.com/oxydevelopers/nivawatt-public) · [v4.0.0 release](https://github.com/oxydevelopers/nivawatt-public/releases/tag/v4.0.0)
+- **ERCOT Peak Demand Lab** — A reproducible 24-feature model for estimating the daily peak-demand hour and presenting a three-hour window. [Repository](https://github.com/Rohan-Ktksu/ercot-peak-demand-lab) · [Interactive lab](https://rohan-ktksu.github.io/ercot-peak-demand-lab/)
+- **Bengaluru Heat Atlas** — Satellite-based surface-heat research with a 1 km planning grid and an interactive hotspot atlas. [Repository](https://github.com/Rohan-Ktksu/bengaluru-heat-atlas) · [Open the atlas](https://rohan-ktksu.github.io/bengaluru-heat-atlas/)
+- **Michigan Outage Lab** — A historical backtest and browser lab for estimating unusually high county-level outage burden over the following three hours. [Repository](https://github.com/Rohan-Ktksu/michigan-powercut-model) · [Interactive lab](https://rohan-ktksu.github.io/michigan-powercut-model/)
+
+### Applications
+
+- **CampusResolve AI** — Team-built campus issue reporting, departmental resolution, and feedback. The hosted v0.4.1 demo includes NLTK triage and plain-English admin reports. [Repository](https://github.com/Rohan-Ktksu/CampusResolve-AI) · [Try the demo](https://campusresolve-ai-sigma.vercel.app/app)
+- **ShabdAnveshi** — An English/Hindi reverse dictionary that uses semantic search over an index of 150,041 dictionary senses. [Repository](https://github.com/Rohan-Ktksu/shabdanveshi) · [Try the dictionary](https://rohan-ktksu.github.io/shabdanveshi/)
+- **SelahFrame** — A Windows studio for turning scripture and reviewed narration into vertical videos with captions. [Repository](https://github.com/Rohan-Ktksu/selahframe-public)
+- **Careva** — An early React and Flask prototype for career assessments, skill-gap recommendations, and learner progress. [Repository](https://github.com/Rohan-Ktksu/careva_website)
+- **Bolmava** — A B2B commerce prototype for Indian buyers and sellers, with English/Telugu screens and simulated transactions. [Private repository](https://github.com/Rohan-Ktksu/bolmava)
+
+### Network and aviation research
+
+- **CyberNCM** — Team research on behavior-based network alerting, with a browser demo and a record of lab results, including negative findings. [Repository](https://github.com/Rohan-Ktksu/cyberncm) · [Open the demo](https://rohan-ktksu.github.io/cyberncm/)
+- **Axynetra** — Explainable network-traffic classification with in-browser training, held-out evaluation, and feature analysis. [Repository](https://github.com/Rohan-Ktksu/axynetra) · [Interactive lab](https://rohan-ktksu.github.io/axynetra/)
+- **Butterflyts** — Aviation data research at Bengaluru’s Kempegowda International Airport, with ADS-B ingestion and runway geometry for flight-track analysis. [Repository](https://github.com/Rohan-Ktksu/Butterflyts)
 
 [See all my repositories](https://github.com/Rohan-Ktksu?tab=repositories)
 
